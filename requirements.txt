@@ -1,0 +1,7 @@
+streamlit
+langchain-community
+langchain-core
+faiss-cpu
+langchainhub
+tiktoken
+langchain-ollama
